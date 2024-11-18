@@ -1,0 +1,32 @@
+#mainheading{
+    color:orange;
+    background-color: black;
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 10px 10px 10px white;
+    box-shadow: 10px 10px 10px white;
+    border:10px solid orangered;
+    border-radius: 35px;
+}
+
+#sachinpic{
+    width:200px; height:200px;
+}
+
+#gambirpic{
+    height:200px; height:200px;
+}
+
+#dravidpic{
+    width:200px; height:200px;
+}
+
+#indexbody{
+    background-color: green;
+} 
+
+
+
+
+
